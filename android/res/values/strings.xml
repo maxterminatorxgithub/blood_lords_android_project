@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">blood-lords</string>
+    <string name="title_activity_login">blood lords login</string>
+
+    <!-- Strings related to login -->
+
+    <string name="enter_password">Enter password</string>
+    <string name="btnLOGiN">LOG IN</string>
+    <string name="btnDEMO">DEMO PLAY</string>
+    <string name="btnSignIn">SIGN IN</string>
+    <string name="enter_email">Enter Email</string>
+
+    <string name="txtDontHaveAnAccount">Don\'t have an account? Register here..</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This instagram address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing instagram
+        completions."
+    </string>
+
+    <string name="provider_GPS">GPS</string>
+    <string name="provider_Network">Network</string>
+    <string name="Location_settings">Location Settings</string>
+    <string name="txtEmailUser">User Email</string>
+    <string name="etNameEnteryouFullName">Enter your Full Name</string>
+    <string name="logout">Logout</string>
+    <string name="fetch">Fetch</string>
+    <string name="save">Save</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_info_from_database">User Info From Database</string>
+    <string name="enter_your_address">Enter your Address</string>
+    <string name="user_profile">User Profile</string>
+    <string name="blood_rank">Blood rank</string>
+    <string name="user">User</string>
+    <string name="score">Score</string>
+    <string name="fights">Fights</string>
+    <string name="you_first_player">You First Player</string>
+    <string name="enter_desired_username">Enter Desired UserName</string>
+    <string name="leave_game">Leave Game</string>
+    <string name="to_game">TO GAME</string>
+    <string name="location">Location</string>
+    <string name="user_info">USER INFO</string>
+    <string name="enter_you_email">Enter email</string>
+    <string name="enter_your_adress">Enter Your address</string>
+    <string name="enter_your_website">Enter Your website</string>
+    <string name="enter_instagramm_account">Enter Instagramm account</string>
+    <string name="enter_your_phone">Enter Your phone</string>
+    <string name="welcome">Welcome :</string>
+    <string name="address">Address</string>
+    <string name="website">Website</string>
+    <string name="instagramm">Instagramm</string>
+    <string name="telephone">Telephone</string>
+    <string name="adress">Adress</string>
+    <string name="your_account_information">Your Account Information</string>
+    <string name="to_table_score">To Table Score</string>
+
+</resources>
