@@ -1,7 +1,6 @@
 package net.mybluemix.eu_de.maxterminatorx.android;
 
 import android.location.Location;
-
 import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
@@ -29,8 +28,6 @@ public class User implements Serializable {
         fights = 0;
         wins = 0;
     }
-
-
 
     public User(String password, String email, String latitude, String longtitude,
                  Boolean vipStatus, Integer score,
